@@ -4,7 +4,7 @@
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsGui&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Tecnologias que estudo
+## Skills
 
 <div style="display: inline_block"><br />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
